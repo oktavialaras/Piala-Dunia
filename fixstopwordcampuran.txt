@@ -201,6 +201,8 @@ bantu
 banyak
 bapak
 baru
+bau
+baunya
 bawa
 bawah
 bb
@@ -6355,3 +6357,16 @@ zm
 zonasi
 zr
 zzzzzzzzz
+mentang
+mentang
+ribut
+slah
+bau
+baunya
+onar
+tatkala
+york
+warga
+papar
+pejabatanya
+rada
