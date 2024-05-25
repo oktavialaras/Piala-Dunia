@@ -166,7 +166,6 @@ Gilagilagilagila:gila
 gitugituan:begitu
 gituh:gitu
 gk:tidak
-glt:galat
 gmn:gimana
 Gogogo:go
 Gokil:gila
