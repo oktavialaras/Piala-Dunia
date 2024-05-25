@@ -230,6 +230,7 @@ kagak:kaga
 kahkah:apakah
 kalau:kalau
 kalee:kali
+kalaub:klub
 kalo:kalau
 kam:kamu
 kanda:kamu
@@ -275,7 +276,7 @@ kon:kamu
 Konbawa:konbanwa
 koncomu:temanmu
 korsel:korea selatan
-Kowe:kamu
+kowe:kamu
 koyo:kaya
 kpan:kapan
 kptsn:keputusan
@@ -444,6 +445,7 @@ plis:please
 plng:pulang
 pls:please
 pranc:prancis
+prancissssss:prancis
 prnah:pernah
 prtgal:portugal
 pulaklah:lagi
